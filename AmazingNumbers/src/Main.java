@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.HashSet;
 
+//created by Paweł Malinowski 8/9/2023
+
 enum Propertiess {
     EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING, HAPPY, SAD
 }
